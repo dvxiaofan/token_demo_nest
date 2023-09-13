@@ -16,7 +16,7 @@ import {JwtService} from "@nestjs/jwt";
 
 const users = [
     {username: 'ccfan', password: 'ccfan666', email: 'ccfan@666.com'},
-    {username: 'ccyou', password: 'ccyou999', email: 'ccyou@999.com'},
+    {username: 'ccyou', password: '999999', email: 'ccyou@999.com'},
     {username: 'guang', password: '666666', email: 'guang@999.com'},
 
 ]
